@@ -3,7 +3,8 @@ server:
 
 ntp:
   server:
-    url: ntp2.stratum2.ru
+    url: ntp1.sd4.hospira.corp
+    timeout: 20
 
 eureka:
   client:
